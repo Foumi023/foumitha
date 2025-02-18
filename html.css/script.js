@@ -4,5 +4,4 @@ function submitData(){
     console.log(name+""+dob)
     var output=document.getElementById('output');
     output.innerText="Student Name : ${name},DOB: ${dob}"
-
 }
